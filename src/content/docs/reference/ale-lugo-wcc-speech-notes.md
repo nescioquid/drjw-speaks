@@ -1,15 +1,10 @@
 ---
-title: Ale Lugo
-description: A guide in my new Starlight docs site.
+title: Speech Notes
 ---
 
-# Speech Notes
+[Ale Lugo, Mexico | 2024 World Brewers Cup Championship | Round One](https://youtu.be/E1yZVwiFuYQ?si=AjYNbjQsWgZrtg6K)
 
-Ale Lugo, Mexico | 2024 World Brewers Cup Championship | Round One
-
-https://youtu.be/E1yZVwiFuYQ?si=AjYNbjQsWgZrtg6K
-
-## Legend
+### Legend
 
 <!-- ɾɸβθðɣʃl̩ʒʌəɪæ -->
 
@@ -28,7 +23,7 @@ marking for the following is excluded:
 
 Ale has a tendency to stress the determiner and the substantive in noun phrases as a compromise between Spanish and English stress patterns or a carry-over from the former.
 
-## Transcript
+### Transcript
 
 ([0:04](https://youtu.be/E1yZVwiFuYQ?si=AjYNbjQsWgZrtg6K&t=4))
 Time. Think about a coffee that is special for you. Now, ask yourself: why is it so special? The answer surely goes beyond the sensory attributes.
