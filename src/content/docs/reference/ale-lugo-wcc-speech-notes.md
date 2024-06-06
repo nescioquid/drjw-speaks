@@ -13,12 +13,17 @@ https://youtu.be/E1yZVwiFuYQ?si=AjYNbjQsWgZrtg6K
 
 <!-- ɾɸβθðɣʃl̩ʒʌəɪæ -->
 
-marking for affricates is excluded
-marking for diphthongs is excluded
-marking for vowel length is excluded
-marking for nasalization is excluded
+marking for the following is excluded:
 
-/e/ is mid-front and /o/ is mid-back as in Spanish
+- affricates
+- diphthongs
+- vowel length
+- nasalization
+
+/e/ is mid-front as in Spanish
+
+/o/ is mid-back as in Spanish
+
 /f/ > [f ~ ɸ] throughout
 
 Ale has a tendency to stress the determiner and the substantive in noun phrases as a compromise between Spanish and English stress patterns or a carry-over from the former.
